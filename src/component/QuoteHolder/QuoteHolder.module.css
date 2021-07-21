@@ -1,0 +1,10 @@
+.quote__holder
+{
+    height: 100vh;
+    width:100vw;
+    background : rgb(206, 125, 125);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
